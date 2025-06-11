@@ -88,8 +88,8 @@ Schedule Exam: Log in to Aspen, select an exam date, and schedule the exam.
 
 ## [Cheat Sheet ](https://app.gitbook.com/s/PNcjhcAuvH4mlZKYrNu3/ejpt-cheat-sheet)📔
 
-{% content-ref url="https://app.gitbook.com/s/PNcjhcAuvH4mlZKYrNu3/ejpt-cheat-sheet" %}
-[eJPT Cheat Sheet](https://app.gitbook.com/s/PNcjhcAuvH4mlZKYrNu3/ejpt-cheat-sheet)
+{% content-ref url="https://phirojshah.gitbook.io/ejpt_v2" %}
+[eJPT Cheat Sheet](https://phirojshah.gitbook.io/ejpt_v2)
 {% endcontent-ref %}
 
 ### Tips <a href="#id-91e1" id="id-91e1"></a>
