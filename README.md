@@ -86,7 +86,7 @@ Schedule Exam: Log in to Aspen, select an exam date, and schedule the exam.
 * [Study Walkthrough](practical-ethical-hacker-notes/study-walkthrough/) 📜
 * [Labs - Exercises](practical-ethical-hacker-notes/study-walkthrough/labs-and-training.md) 🧪
 
-## [Cheat Sheet ](https://app.gitbook.com/s/PNcjhcAuvH4mlZKYrNu3/ejpt-cheat-sheet)📔
+## [Cheat Sheet ](https://phirojshah.gitbook.io/ejpt_v2)📔
 
 {% content-ref url="https://phirojshah.gitbook.io/ejpt_v2" %}
 [eJPT Cheat Sheet](https://phirojshah.gitbook.io/ejpt_v2)
